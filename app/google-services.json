@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "903543421052",
+    "project_id": "splashscreen-a35f7",
+    "storage_bucket": "splashscreen-a35f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903543421052:android:31775e83e84d07da2ef1f9",
+        "android_client_info": {
+          "package_name": "co.za.mtn.academy.spashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903543421052-u84444v1p6eg0bg93i2cef9806k48o67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2-UwO6yyuMmOXgvcKvylwDDZgPxG5LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903543421052-u84444v1p6eg0bg93i2cef9806k48o67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
